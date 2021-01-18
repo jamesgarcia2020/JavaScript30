@@ -2,9 +2,9 @@
 
 ---
 
-Description: This first project is a drum set that you play using your computer keyboard. There are a total of nine keys that each have a different part of the drum set. A screen shot of the completed set is below.
+Description: This first project is a drum set that you play using your computer keyboard. There are a total of nine keys that each have a different part of the drum set. This project uses audio files to make the sounds of the drum set. A screen shot of the completed set is below.
 
-Technologies used: HTML, CSS and Javascript.
+Technologies used: HTML, CSS and Javascript, Chrome Dev Tools, Git, GitHub and VS Code.
 
 This is the first of the 30 daily Javascript projects I am working on.
 
